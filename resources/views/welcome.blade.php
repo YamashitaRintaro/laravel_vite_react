@@ -7,7 +7,7 @@
     <title>Laravel Vite Vue.js 3</title>
     @viteReactRefresh @vite(['resources/css/app.css', 'resources/js/app.jsx'])
   </head>
-  <body>
-    <div id="app"></div>
+  <body class="flex justify-center items-center h-56">
+    <h1 class="text-3xl text-green-500">Hello Tailwind</h1>
   </body>
 </html>
